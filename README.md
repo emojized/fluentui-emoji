@@ -4,7 +4,7 @@ Fluent Emoji are a collection of familiar, friendly, and modern emoji from Micro
 
 ![Fluent Emoji](art/readme_banner.webp)
 
-## Changes
+## Changes
 
 This special emojized fork also includes all PNG files.
 
